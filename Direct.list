@@ -8,6 +8,8 @@ IP-CIDR,30.0.0.0/24
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+# 不良林
+DOMAIN-SUFFIX,buliang0.cf
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
